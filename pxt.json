@@ -1,0 +1,21 @@
+{
+    "name": "dl7612_hello",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "cayenne_lpp": "github:ittisris/pxt-cayenne_lpp#ad00ff6bfb97457d415c953cc314ba3299393b37"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
