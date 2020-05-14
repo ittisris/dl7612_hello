@@ -1,7 +1,7 @@
 let Payload = ""
 serial.redirect(
-SerialPin.P14,
 SerialPin.P15,
+SerialPin.P14,
 BaudRate.BaudRate115200
 )
 serial.setWriteLinePadding(0)

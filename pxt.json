@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "cayenne_lpp": "github:ittisris/pxt-cayenne_lpp#ad00ff6bfb97457d415c953cc314ba3299393b37"
+        "cayenne_lpp": "github:ittisris/pxt-cayenne_lpp#45e9445f194e2400bbd0df9949755591f9c20f31"
     },
     "files": [
         "main.blocks",
